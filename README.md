@@ -222,5 +222,5 @@ These are ideas for consideration, not proven fixes.
 
 ## About
 
-**Author:** [Your Name]
-**LinkedIn:** [Your LinkedIn URL]
+**Author:** Anisah Fatin Farahdillah
+**LinkedIn:** https://www.linkedin.com/in/anisahfatinfarahdillah/
